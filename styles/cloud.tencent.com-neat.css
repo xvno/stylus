@@ -1,0 +1,12 @@
+.J-header,
+.layout-side,
+.J-sharingBar,
+.layout-side,
+.J-articlePanel+.com-2-panel,
+.J-footer,
+.com-sticky-header,
+.com-widget-global,
+.col-2-article-tags>.extra-part
+{
+    display: none !important;
+}
