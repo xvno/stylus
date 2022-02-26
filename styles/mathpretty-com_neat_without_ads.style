@@ -1,0 +1,5 @@
+#comments,
+.tg-pc,
+.tg-box {
+    display: none !important;
+}
