@@ -39,6 +39,7 @@ li code {
     position: sticky !important;
 }
 
+/* 
 .ztree li span.button.ico_close:before,.ztree li span.button.ico_open:before {
     color: #4587f3;
     font-weight: 800;
@@ -47,7 +48,8 @@ li code {
 .ztree li span.button.ico_docu:before {
     color: #ED7A30;
     font-weight: 900;
-}
+} 
+*/
 
 @media (max-height: 800px) {
     body {
