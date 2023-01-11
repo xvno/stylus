@@ -1,0 +1,20 @@
+li code {
+    background-color: lightblue !important;
+}
+
+.button.ico_open {
+    color: red !important;
+    font-size: 1.05em !important;
+    font-weight: 900;
+}
+.button.ico_close {
+    color: orange !important;
+    font-size: 1.2em !important;
+    font-weight: 900 !important;
+}
+
+.button.ico_docu {
+    color: green !important;
+    font-weight: 800 !important;
+    font-size: 1.2em !important;
+}
